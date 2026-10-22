@@ -1,0 +1,16 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+terraform.tfvars
+*.auto.tfvars
+!terraform.tfvars.example
+
+.DS_Store
+.vscode/
+.idea/
+
+estudio/
+*.tfplan
+
+slides/*.pptx
